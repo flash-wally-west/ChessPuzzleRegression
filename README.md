@@ -1,5 +1,5 @@
 # ChessPuzzleRegression
 
-Pluto.jl instruction:
+## how to open Pluto.jl notebook:
 
 https://plutojl.org/#install
